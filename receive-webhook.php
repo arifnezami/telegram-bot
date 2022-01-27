@@ -3,7 +3,7 @@
     // configuration
     
     // replace the token with your actual token
-    $botToken="5119182521:AAEEwCnmb-AFqxbZlhlj_aR5uWOmOewke7M";
+    $botToken="";
 
     $telegram_api="https://api.telegram.org/bot".$botToken;
 
